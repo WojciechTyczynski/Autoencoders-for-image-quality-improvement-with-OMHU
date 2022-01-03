@@ -1,1 +1,1 @@
-# Autoencoders-for-image-quality-improvement-with-OMHU
+# Autoencoders for image quality improvement with OMHU
